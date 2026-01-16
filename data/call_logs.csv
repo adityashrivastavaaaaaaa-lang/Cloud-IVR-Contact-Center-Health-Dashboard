@@ -1,0 +1,201 @@
+call_id,agent,queue,duration,answered,abandoned,time,wait_time
+1001,Agent A,Sales,254,Yes,No,10:09,34
+1002,Riya,Support,413,Yes,No,10:18,25
+1003,,Sales,0,No,Yes,10:22,113
+1004,Riya,Support,298,Yes,No,10:30,58
+1005,John,Sales,193,Yes,No,10:33,16
+1006,,Sales,0,No,Yes,10:37,275
+1007,John,Sales,409,Yes,No,10:43,36
+1008,John,Sales,469,Yes,No,10:52,31
+1009,Agent C,Support,167,Yes,No,10:54,21
+1010,Agent C,Support,436,Yes,No,10:58,19
+1011,Riya,Support,92,Yes,No,10:58,10
+1012,Agent C,Support,491,Yes,No,11:06,56
+1013,Agent A,Sales,208,Yes,No,11:16,59
+1014,Riya,Support,247,Yes,No,11:25,42
+1015,Agent A,Sales,382,Yes,No,11:34,24
+1016,,Support,0,No,Yes,11:34,289
+1017,Agent B,Sales,105,Yes,No,11:37,58
+1018,John,Sales,114,Yes,No,11:40,14
+1019,Agent C,Support,295,Yes,No,11:50,19
+1020,Agent B,Sales,203,Yes,No,11:50,25
+1021,Agent C,Support,593,Yes,No,11:52,25
+1022,Agent C,Support,561,Yes,No,11:52,13
+1023,Riya,Support,341,Yes,No,11:56,8
+1024,,Sales,0,No,Yes,12:03,79
+1025,Riya,Support,423,Yes,No,12:11,11
+1026,Agent C,Support,156,Yes,No,12:18,52
+1027,Riya,Support,358,Yes,No,12:28,28
+1028,,Support,0,No,Yes,12:36,81
+1029,Riya,Support,100,Yes,No,12:44,22
+1030,Riya,Support,580,Yes,No,12:46,53
+1031,,Sales,0,No,Yes,12:52,79
+1032,Agent C,Support,529,Yes,No,12:59,18
+1033,Agent B,Sales,446,Yes,No,13:02,37
+1034,Riya,Support,408,Yes,No,13:06,42
+1035,Agent A,Sales,309,Yes,No,13:15,35
+1036,John,Sales,85,Yes,No,13:18,49
+1037,Riya,Support,120,Yes,No,13:20,41
+1038,Agent A,Sales,495,Yes,No,13:29,21
+1039,Agent C,Support,184,Yes,No,13:29,45
+1040,Agent C,Support,203,Yes,No,13:30,9
+1041,John,Sales,468,Yes,No,13:40,40
+1042,Riya,Support,131,Yes,No,13:42,59
+1043,Agent B,Sales,290,Yes,No,13:42,22
+1044,Agent A,Sales,506,Yes,No,13:47,32
+1045,Riya,Support,142,Yes,No,13:48,46
+1046,Riya,Support,441,Yes,No,13:53,56
+1047,Agent A,Sales,461,Yes,No,13:56,48
+1048,Riya,Support,583,Yes,No,14:00,11
+1049,Riya,Support,572,Yes,No,14:05,47
+1050,Riya,Support,225,Yes,No,14:06,53
+1051,Riya,Support,456,Yes,No,14:06,44
+1052,Agent A,Sales,219,Yes,No,14:07,47
+1053,Agent C,Support,140,Yes,No,14:16,30
+1054,Agent C,Support,598,Yes,No,14:23,40
+1055,Riya,Support,368,Yes,No,14:32,10
+1056,John,Sales,405,Yes,No,14:32,25
+1057,Agent C,Support,142,Yes,No,14:41,52
+1058,Riya,Support,177,Yes,No,14:44,51
+1059,Riya,Support,312,Yes,No,14:49,11
+1060,Agent A,Sales,140,Yes,No,14:53,29
+1061,John,Sales,127,Yes,No,14:55,45
+1062,Riya,Support,439,Yes,No,14:57,41
+1063,John,Sales,216,Yes,No,15:07,60
+1064,Agent C,Support,294,Yes,No,15:11,40
+1065,Riya,Support,183,Yes,No,15:14,21
+1066,Agent B,Sales,404,Yes,No,15:18,39
+1067,John,Sales,255,Yes,No,15:21,43
+1068,Agent C,Support,120,Yes,No,15:31,31
+1069,Agent A,Sales,533,Yes,No,15:33,5
+1070,Riya,Support,188,Yes,No,15:35,33
+1071,Agent C,Support,460,Yes,No,15:35,46
+1072,,Support,0,No,Yes,15:41,40
+1073,,Support,0,No,Yes,15:51,205
+1074,John,Sales,206,Yes,No,15:57,58
+1075,,Support,0,No,Yes,15:59,96
+1076,Agent B,Sales,111,Yes,No,16:08,16
+1077,Agent A,Sales,231,Yes,No,16:15,32
+1078,Agent C,Support,532,Yes,No,16:23,29
+1079,John,Sales,269,Yes,No,16:23,7
+1080,,Support,0,No,Yes,16:31,262
+1081,Riya,Support,479,Yes,No,16:40,45
+1082,,Sales,0,No,Yes,16:46,128
+1083,Agent A,Sales,78,Yes,No,16:52,33
+1084,Agent A,Sales,307,Yes,No,17:01,13
+1085,Agent A,Sales,177,Yes,No,17:10,6
+1086,Riya,Support,552,Yes,No,17:10,9
+1087,Agent C,Support,182,Yes,No,17:12,56
+1088,Riya,Support,507,Yes,No,17:21,33
+1089,Agent A,Sales,244,Yes,No,17:25,55
+1090,Riya,Support,82,Yes,No,17:33,33
+1091,Agent B,Sales,420,Yes,No,17:37,34
+1092,Agent C,Support,92,Yes,No,17:37,16
+1093,Riya,Support,338,Yes,No,17:47,24
+1094,Riya,Support,333,Yes,No,17:47,36
+1095,Agent B,Sales,425,Yes,No,17:47,10
+1096,Agent C,Support,313,Yes,No,17:47,56
+1097,Agent B,Sales,560,Yes,No,17:49,44
+1098,Agent C,Support,504,Yes,No,17:51,13
+1099,Agent C,Support,110,Yes,No,18:00,30
+1100,Agent C,Support,530,Yes,No,18:00,5
+1101,Riya,Support,325,Yes,No,18:09,28
+1102,Agent B,Sales,357,Yes,No,18:19,56
+1103,Riya,Support,238,Yes,No,18:26,7
+1104,John,Sales,113,Yes,No,18:26,37
+1105,Agent C,Support,580,Yes,No,18:27,6
+1106,Riya,Support,322,Yes,No,18:30,39
+1107,Riya,Support,164,Yes,No,18:36,10
+1108,John,Sales,249,Yes,No,18:46,51
+1109,Riya,Support,410,Yes,No,18:56,28
+1110,Agent C,Support,279,Yes,No,19:06,8
+1111,,Support,0,No,Yes,19:08,255
+1112,Agent C,Support,477,Yes,No,19:14,38
+1113,Riya,Support,219,Yes,No,19:16,43
+1114,Agent C,Support,333,Yes,No,19:23,25
+1115,Riya,Support,340,Yes,No,19:27,15
+1116,Agent C,Support,347,Yes,No,19:37,44
+1117,Agent B,Sales,114,Yes,No,19:38,9
+1118,,Support,0,No,Yes,19:48,76
+1119,Riya,Support,139,Yes,No,19:52,30
+1120,Riya,Support,129,Yes,No,19:57,47
+1121,Agent A,Sales,406,Yes,No,20:02,23
+1122,John,Sales,477,Yes,No,20:12,26
+1123,Agent A,Sales,248,Yes,No,20:18,34
+1124,Agent C,Support,374,Yes,No,20:28,42
+1125,Riya,Support,372,Yes,No,20:29,26
+1126,Agent A,Sales,339,Yes,No,20:29,36
+1127,Riya,Support,216,Yes,No,20:33,6
+1128,Agent B,Sales,321,Yes,No,20:36,57
+1129,Agent A,Sales,181,Yes,No,20:41,46
+1130,Riya,Support,512,Yes,No,20:48,50
+1131,Riya,Support,92,Yes,No,20:52,26
+1132,Agent C,Support,328,Yes,No,20:53,51
+1133,Agent C,Support,345,Yes,No,20:54,37
+1134,Riya,Support,117,Yes,No,21:03,51
+1135,Agent B,Sales,387,Yes,No,21:11,9
+1136,Agent B,Sales,502,Yes,No,21:13,33
+1137,Agent A,Sales,461,Yes,No,21:16,55
+1138,Agent C,Support,410,Yes,No,21:24,22
+1139,Riya,Support,395,Yes,No,21:28,27
+1140,John,Sales,576,Yes,No,21:28,55
+1141,Riya,Support,389,Yes,No,21:30,34
+1142,Agent C,Support,397,Yes,No,21:30,35
+1143,Riya,Support,457,Yes,No,21:40,15
+1144,Riya,Support,242,Yes,No,21:44,5
+1145,Agent A,Sales,84,Yes,No,21:45,15
+1146,Agent C,Support,206,Yes,No,21:55,25
+1147,Agent A,Sales,466,Yes,No,22:03,41
+1148,John,Sales,226,Yes,No,22:11,30
+1149,Agent A,Sales,380,Yes,No,22:21,43
+1150,John,Sales,311,Yes,No,22:29,23
+1151,Agent C,Support,242,Yes,No,22:37,25
+1152,John,Sales,256,Yes,No,22:47,59
+1153,Agent C,Support,397,Yes,No,22:50,23
+1154,John,Sales,315,Yes,No,22:52,22
+1155,Agent A,Sales,127,Yes,No,22:53,7
+1156,Riya,Support,468,Yes,No,22:58,59
+1157,Agent B,Sales,241,Yes,No,23:05,14
+1158,Agent A,Sales,512,Yes,No,23:11,12
+1159,Agent B,Sales,405,Yes,No,23:19,24
+1160,John,Sales,253,Yes,No,23:27,43
+1161,Agent C,Support,505,Yes,No,23:32,55
+1162,Agent A,Sales,337,Yes,No,23:40,6
+1163,Agent C,Support,353,Yes,No,23:50,25
+1164,Agent B,Sales,77,Yes,No,23:55,59
+1165,John,Sales,600,Yes,No,00:01,21
+1166,Riya,Support,334,Yes,No,00:09,58
+1167,John,Sales,583,Yes,No,00:15,40
+1168,John,Sales,347,Yes,No,00:16,60
+1169,Riya,Support,432,Yes,No,00:22,11
+1170,John,Sales,425,Yes,No,00:25,47
+1171,Riya,Support,380,Yes,No,00:35,58
+1172,Agent B,Sales,340,Yes,No,00:37,18
+1173,Riya,Support,540,Yes,No,00:46,46
+1174,Agent C,Support,216,Yes,No,00:53,7
+1175,John,Sales,347,Yes,No,01:00,43
+1176,John,Sales,459,Yes,No,01:07,23
+1177,Agent B,Sales,128,Yes,No,01:15,28
+1178,,Support,0,No,Yes,01:18,56
+1179,Agent C,Support,163,Yes,No,01:20,41
+1180,John,Sales,212,Yes,No,01:24,40
+1181,Agent C,Support,349,Yes,No,01:29,23
+1182,Riya,Support,578,Yes,No,01:39,56
+1183,Riya,Support,493,Yes,No,01:47,60
+1184,Agent A,Sales,209,Yes,No,01:54,46
+1185,Riya,Support,257,Yes,No,01:55,45
+1186,John,Sales,124,Yes,No,01:56,15
+1187,Riya,Support,273,Yes,No,01:59,57
+1188,John,Sales,76,Yes,No,02:07,6
+1189,Agent A,Sales,198,Yes,No,02:09,23
+1190,Agent C,Support,511,Yes,No,02:10,60
+1191,Agent A,Sales,284,Yes,No,02:16,33
+1192,Agent B,Sales,348,Yes,No,02:26,20
+1193,Agent C,Support,341,Yes,No,02:28,25
+1194,Riya,Support,575,Yes,No,02:38,30
+1195,Agent C,Support,433,Yes,No,02:42,6
+1196,Riya,Support,507,Yes,No,02:48,33
+1197,Agent C,Support,163,Yes,No,02:56,33
+1198,John,Sales,270,Yes,No,03:06,14
+1199,Agent C,Support,385,Yes,No,03:09,27
+1200,Agent C,Support,74,Yes,No,03:09,18

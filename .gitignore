@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode/
+venv/
+env/
+.env
+data/call_logs.csv # Maybe we want to commit the sample data? The prompt created it. Let's KEEP it for the demo, but usually we ignore data. I'll keep it for now so the repo works out of the box.
+# data/call_logs.csv 
